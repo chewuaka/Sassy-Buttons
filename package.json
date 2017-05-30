@@ -1,0 +1,14 @@
+{
+  "name": "sassy-buttons",
+  "description": "Sassy Buttons Node.js",
+  "keywords": [
+    "sassy-buttons"
+  ],
+  "homepage": "https://github.com/chewuaka/sassy-buttons",
+  "bugs": "https://github.com/chewuaka/sassy-buttons.git/issues",
+  "author": "Iván Román",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chewuaka/sassy-buttons.git"
+  }
+}
